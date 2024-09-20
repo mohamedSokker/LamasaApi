@@ -4,6 +4,8 @@ const allowedOrigins = [
   "http://localhost:5002",
   "https://localhost:5002",
   "https://lamasa.onrender.com",
+  "https://www.lamasah.co.uk",
+  "https://lamasa-8yhd.onrender.com",
 ];
 
 module.exports = allowedOrigins;
